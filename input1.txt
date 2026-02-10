@@ -1,1 +1,2 @@
 Using this test file for this activity
+Second line added
